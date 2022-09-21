@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Material Example</string>
+    <string name="label_text_field">Text Fields</string>
+    <string name="label_buttons">Buttons</string>
+    <string name="label_bottom_sheet">Bottom Sheet</string>
+    <string name="label_top_app_bar">Top App Bar</string>
+    <string name="label_bottom_app_bar">Bottom App Bar</string>
+    <string name="label_snack_bars">Snackbars</string>
+    <string name="label_bottom_navigation">Bottom Navigation</string>
+</resources>
