@@ -24,13 +24,6 @@
             </intent-filter>
         </activity>
 
-        <activity android:name=".components.TextFieldsActivity" />
-
-        <activity android:name=".components.ButtonsActivity" />
-        <activity android:name=".components.SnackBarActivity" />
-        <activity android:name=".components.TopAppBarActivity" />
-        <activity android:name=".components.BottomAppBarActivity" />
-        <activity android:name=".components.BottomNavigationActivity" />
     </application>
 
 </manifest>
