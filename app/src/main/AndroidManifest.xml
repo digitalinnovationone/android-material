@@ -25,6 +25,7 @@
         </activity>
         <activity android:name=".ButtonsActivity" />
         <activity android:name=".TextFieldsActivity" />
+        <activity android:name=".TopAppBarActivity" />
 
     </application>
 
